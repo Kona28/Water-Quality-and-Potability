@@ -23,7 +23,7 @@ Proyek ini dibuat untuk memenuhi tugas praktikum Machine Learning. Tujuannya ada
 Berikut adalah beberapa referensi jurnal ilmiah nasional terakreditasi SINTA yang berkaitan dengan analisis, klasifikasi, dan pemodelan prediktif kualitas serta kelayakan air minum (*Water Potability*):
 
 
-| No | Judul Penelitian | Algoritma / Metode | Status SINTA | Tautan Artikel |
+| Nomor | Judul Penelitian | Algoritma / Metode | Status SINTA | Tautan Artikel |
 | :--- | :--- | :--- | :--- | :--- |
 | 1 | Klasifikasi Kelayakan Air Minum Mengkombinasikan Algoritma Random Forest dengan Teknik Optimasi Bayesian (Darmawan dkk., 2025) | Random Forest, XGBoost, Bayesian Optimization | **SINTA 3** | [Buka Artikel](https://ejurnal.seminar-id.com/index.php/bits/article/view/7055) |
 | 2 | Klasifikasi Kualitas Air Layak Minum Menggunakan Algoritma Genetika dan Random Forest (Dewi dkk.) | Random Forest, Algoritma Genetika | **SINTA 3** | [Buka Artikel](https://ejournal2.unud.ac.id/index.php/jeliku/article/view/2100) |
@@ -33,7 +33,7 @@ Berikut adalah beberapa referensi jurnal ilmiah nasional terakreditasi SINTA yan
 
 Berikut adalah 5 dataset dari Kaggle yang dievaluasi dan digunakan sebagai referensi tugas klasifikasi (Biner & Multiclass):
 
-| No | Nama Dataset | Jenis Tugas | Tautan Sumber |
+| Nomor | Nama Dataset | Jenis Tugas | Tautan Sumber |
 | :--- | :--- | :--- | :--- |
 | 1 | Weather Conditions Dataset | Klasifikasi Multiclass | [Buka Dataset Kaggle](https://www.kaggle.com/datasets/nasiruddin123/weather-conditions-dataset/data) |
 | 2 | Dhaka Air Quality Index Dataset | Klasifikasi Multiclass / Regresi | [Buka Dataset Kaggle](https://www.kaggle.com/datasets/nasiruddin123/dhaka-air-quality-index-dataset) |
