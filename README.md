@@ -18,6 +18,21 @@ Proyek ini dibuat untuk memenuhi tugas praktikum Machine Learning. Tujuannya ada
 
 ---
 
+## 📚 Referensi & Pustaka Ilmiah Pendukung
+
+Berikut adalah beberapa referensi jurnal ilmiah nasional terakreditasi SINTA yang berkaitan dengan analisis, klasifikasi, dan pemodelan prediktif kualitas serta kelayakan air minum (*Water Potability*):
+
+
+## 📚 Referensi & Pustaka Ilmiah Pendukung
+
+Berikut adalah referensi jurnal ilmiah nasional terakreditasi SINTA yang berkaitan langsung dengan analisis dan klasifikasi kualitas serta kelayakan air minum (*Water Potability*):
+
+| No | Judul Penelitian | Algoritma / Metode | Status SINTA | Tautan Artikel |
+| :--- | :--- | :--- | :--- | :--- |
+| 1 | Klasifikasi Kelayakan Air Minum Mengkombinasikan Algoritma Random Forest dengan Teknik Optimasi Bayesian (Darmawan dkk., 2025) | Random Forest, XGBoost, Bayesian Optimization | **SINTA 3** | [Buka Artikel](https://ejurnal.seminar-id.com/index.php/bits/article/view/7055) |
+| 2 | Klasifikasi Kualitas Air Layak Minum Menggunakan Algoritma Genetika dan Random Forest (Dewi dkk.) | Random Forest, Algoritma Genetika | **SINTA 3** | [Buka Artikel](https://ejournal2.unud.ac.id/index.php/jeliku/article/view/2100) |
+| 3 | Klasifikasi Kualitas Air Menggunakan Metode KNN, Naïve Bayes, dan Decision Tree (Tangkelayuk, 2022 - Jurnal JATISI) | Naïve Bayes, KNN, Decision Tree | **SINTA 3** | [Portal Jurnal JATISI](https://jurnal.mdp.ac.id/index.php/jatisi) |
+
 ## 📊 Referensi & Daftar Dataset Klasifikasi
 
 Berikut adalah 5 dataset dari Kaggle yang dievaluasi dan digunakan sebagai referensi tugas klasifikasi (Biner & Multiclass):
